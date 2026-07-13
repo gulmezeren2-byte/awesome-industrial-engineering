@@ -4,7 +4,7 @@
 
 Industrial engineering knowledge is scattered across expensive textbooks, paid certifications and consultancy decks. This list gathers the best freely accessible tools, courses, datasets and communities in one place — for students, practitioners and career-switchers. Curated and maintained by [Eren Gülmez](https://github.com/gulmezeren2-byte): selection over volume, every entry earns its place.
 
-🇹🇷 Türkçe kaynaklar için sayfanın sonundaki bölüme bakın.
+🇹🇷 Türkçe sürüm: [README.tr.md](README.tr.md)
 
 ## Contents
 
