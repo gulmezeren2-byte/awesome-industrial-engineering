@@ -44,6 +44,7 @@ Industrial engineering knowledge is scattered across expensive textbooks, paid c
 ## AI Agent Skills
 
 - [industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills) - IE methodology packaged as agent skills (OTIF audit, forecast accuracy, ABC-XYZ, safety stock, Pareto discipline, reporting contracts) for Claude Code, Codex, Cursor and any LLM.
+- [opsaudit](https://github.com/gulmezeren2-byte/opsaudit) - JSON-only CLI for agents and pipelines: OTIF, forecast backtests, ABC-XYZ and Pareto, each result carrying a mandatory honesty block.
 
 ## Books and Classics
 
