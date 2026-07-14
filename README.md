@@ -27,7 +27,7 @@ Industrial engineering knowledge is scattered across expensive textbooks, paid c
 - [Related Awesome Lists](#related-awesome-lists)
 - [Turkish Resources](#turkish-resources)
 
-Recently added: opsaudit (agent-first ops CLI) · industrial-engineering-ai-skills (method pack) · auto-report-pipeline (autonomous weekly report) — see their sections below.
+Recently added: erp-report-engine (read-only weekly reports from the SQL database behind an ERP) · opsaudit (agent-first ops CLI) · industrial-engineering-ai-skills (method pack) — see their sections below.
 
 ## Learning Resources
 
@@ -125,6 +125,7 @@ Not free — listed because they define the field. Check your local library.
 ## Data Analysis and Visualization
 
 - [auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline) - A scheduled pipeline that validates operational CSVs, computes weekly KPIs and delivers a plain-language HTML management report.
+- [erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine) - Autonomous weekly reports straight from the SQL database behind an ERP; read-only by construction, every query audited, Logo Tiger profile included.
 - [pandas](https://github.com/pandas-dev/pandas) - The workhorse of tabular data in Python.
 - [DuckDB](https://github.com/duckdb/duckdb) - Analyze large files locally with SQL, no server needed.
 - [Streamlit](https://github.com/streamlit/streamlit) - Turn a Python script into a shareable web app, the fastest way to ship an operations tool.
