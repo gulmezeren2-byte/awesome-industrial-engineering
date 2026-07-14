@@ -86,6 +86,7 @@ Not free — listed because they define the field. Check your local library.
 ## Forecasting and Demand Planning
 
 - [forecast-accuracy-lab](https://github.com/gulmezeren2-byte/forecast-accuracy-lab) - Five baseline models, rolling-origin backtesting and the metrics that don't lie: WMAPE, bias and Forecast Value Added.
+- [forecast-autoresearch](https://github.com/gulmezeren2-byte/forecast-autoresearch) - A sealed-holdout research harness asking whether an AI agent can honestly beat naive forecasting; single metric, frozen protocol, human-directed program.
 - [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning-fast classical models (ETS, ARIMA, Croston), ideal for SKU-level demand.
 - [Prophet](https://github.com/facebook/prophet) - Business time series with trend, seasonality and holidays.
 - [sktime](https://github.com/sktime/sktime) - Unified machine-learning framework for time series.
