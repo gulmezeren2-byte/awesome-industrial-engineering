@@ -1,4 +1,4 @@
-# Awesome Industrial Engineering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Industrial Engineering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![Resources](https://img.shields.io/badge/resources-80+-blue) ![Last Commit](https://img.shields.io/github/last-commit/gulmezeren2-byte/awesome-industrial-engineering)
 
 > Industrial engineering: designing, measuring and improving the systems that make and move things.
 
@@ -26,6 +26,8 @@ Industrial engineering knowledge is scattered across expensive textbooks, paid c
 - [Communities](#communities)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Turkish Resources](#turkish-resources)
+
+Recently added: opsaudit (agent-first ops CLI) · industrial-engineering-ai-skills (method pack) · auto-report-pipeline (autonomous weekly report) — see their sections below.
 
 ## Learning Resources
 
