@@ -125,7 +125,7 @@ Not free — listed because they define the field. Check your local library.
 ## Data Analysis and Visualization
 
 - [auto-report-pipeline](https://github.com/gulmezeren2-byte/auto-report-pipeline) - A scheduled pipeline that validates operational CSVs, computes weekly KPIs and delivers a plain-language HTML management report.
-- [erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine) - Autonomous weekly reports straight from the SQL database behind an ERP; read-only by construction, every query audited, Logo Tiger profile included.
+- [erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine) - Weekly KPI reports and a Power BI Command Center from the SQL database behind an ERP (Logo Tiger, Netsis, Mikro) - read-only by construction and measured against a public 28-attack benchmark, plus a guarded MCP server so an AI agent can query the ERP safely. On PyPI and the official MCP registry.
 - [pandas](https://github.com/pandas-dev/pandas) - The workhorse of tabular data in Python.
 - [DuckDB](https://github.com/duckdb/duckdb) - Analyze large files locally with SQL, no server needed.
 - [Streamlit](https://github.com/streamlit/streamlit) - Turn a Python script into a shareable web app, the fastest way to ship an operations tool.
