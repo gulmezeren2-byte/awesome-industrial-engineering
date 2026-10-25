@@ -108,6 +108,7 @@ Not free — listed because they define the field. Check your local library.
 ## Quality and Statistical Process Control
 
 - [qcc](https://github.com/luca-scr/qcc) - R package for control charts and process capability analysis.
+- [8D Report Checklist](https://github.com/eightdgate/8d-report-checklist) - Free 21-item checklist for reviewing an 8D corrective-action report, with emphasis on verified occurrence and escape root causes.
 
 ## Process Mining
 
