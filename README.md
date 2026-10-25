@@ -107,6 +107,7 @@ Not free — listed because they define the field. Check your local library.
 
 ## Quality and Statistical Process Control
 
+- [8D Gate Gage R&R Calculator](https://8d-gate.vercel.app/gage-rr-calculator) - Free in-browser average and range Gage R&R study (AIAG MSA 4th edition constants) with %GRR, ndc and advisory guidance; entries are not uploaded.
 - [qcc](https://github.com/luca-scr/qcc) - R package for control charts and process capability analysis.
 
 ## Process Mining
